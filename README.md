@@ -13,10 +13,16 @@ Each completed week includes:
 
 - Website: [www.WajdiBenSaad.com](https://www.WajdiBenSaad.com)
 - Bluesky: [wajdi.bsky.social](https://bsky.app/profile/wajdi.bsky.social)
-s
+
 ## Contributions
 
 ### 2026
+
+#### [2026-06-30: Wreck Inventory of Ireland](2026/2026-06-30/)
+
+Nautical-themed visualizations of Ireland's recorded wreck inventory: location density, seasonal patterns, and description keywords.
+
+[![Wrecks In The Irish Sea Fog](2026/2026-06-30/01_wreck_density_nautical_chart.png)](2026/2026-06-30/)
 
 #### [2026-06-23: Papal Encyclicals](2026/23-06-2026/)
 
@@ -28,7 +34,7 @@ Shared vocabulary in two papal encyclicals by two popes named Leo: **Rerum Novar
 
 ```text
 YYYY/
-  DD-MM-YYYY/
+  YYYY-MM-DD/
     README.md
     chart_script.R
     final_plot.png
