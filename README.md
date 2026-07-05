@@ -30,6 +30,12 @@ Shared vocabulary in two papal encyclicals by two popes named Leo: **Rerum Novar
 
 [![From Leo XIII to Leo XIV: Shared Words, Different Weight](2026/23-06-2026/26_shared_vocabulary_dumbbell.png)](2026/23-06-2026/)
 
+#### [2026-03-24: One Million Digits of Pi](2026/2026-03-24/)
+
+Two visual readings of pi's decimal expansion: the first 3,141 digits written as a spiral and the first one million digits traced as a random walk.
+
+[![Pi Written As A Spiral](2026/2026-03-24/palette_galaxy_digits_candy_glass.png)](2026/2026-03-24/)
+
 ## Repository Structure
 
 ```text
