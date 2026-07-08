@@ -18,6 +18,12 @@ Each completed week includes:
 
 ### 2026
 
+#### [2026-01-13: The Languages of Africa](2026/2026-01-13/)
+
+A hex-tessellated map of Africa showing how listed languages split across language families by country.
+
+[![The Languages of Africa](2026/2026-01-13/africa_languages_map.png)](2026/2026-01-13/)
+
 #### [2026-06-30: Wreck Inventory of Ireland](2026/2026-06-30/)
 
 Nautical-themed visualizations of Ireland's recorded wreck inventory: location density, seasonal patterns, and description keywords.
