@@ -18,6 +18,12 @@ Each completed week includes:
 
 ### 2026
 
+#### [2026-07-07: UFC Fights](2026/2026-07-07/)
+
+An octagon heatmap showing when UFC fights end across five rounds, with percentages calculated within each finish method.
+
+[![Inside the Final Round](2026/2026-07-07/ufc_rounds_finish_heatmap.png)](2026/2026-07-07/)
+
 #### [2026-01-13: The Languages of Africa](2026/2026-01-13/)
 
 A hex-tessellated map of Africa showing how listed languages split across language families by country.
