@@ -18,6 +18,12 @@ Each completed week includes:
 
 ### 2026
 
+#### [2026-07-14: Many Penguins](2026/2026-07-14/)
+
+An Antarctic field atlas comparing ten anatomical measurements across six penguin genera, with individual specimens, medians, and interquartile ranges.
+
+[![The Anatomy of a Penguin](2026/2026-07-14/penguin_anatomy_atlas.png)](2026/2026-07-14/)
+
 #### [2026-07-07: UFC Fights](2026/2026-07-07/)
 
 An octagon heatmap showing when UFC fights end across five rounds, with percentages calculated within each finish method.
